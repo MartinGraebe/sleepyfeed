@@ -1,0 +1,66 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  
+  
+  width: 100%;
+  
+ 
+}
+.slider-group {
+  margin-top: 5%;
+  width: 50%;
+  height: 50%;
+}
+.carouselClass{
+ 
+ 
+  padding: 10%;
+  width: 500px;
+  height: 500px;
+  
+
+
+}
+.myButton{
+  width: 100%;
+  
+  
+}
+.buttonHold{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+ 
+  flex-direction: column;
+  margin-top: 10%;
+  
+}
+.Content{
+  
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+ 
+  
+  
+ 
+
+}
+.Menu{
+
+  text-align: left;
+  display: flex;
+  justify-content: space-evenly;
+  width: 80%;
+  flex-direction: column;
+  margin-top: 5%;
+  margin-bottom: 2%;
+  margin-left: 10%;
+  padding: 5%;
+ 
+
+}
+
