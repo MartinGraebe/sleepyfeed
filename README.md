@@ -3,6 +3,10 @@ React App to display an Instagram feed as a slideshow e.g. to be captured by OBS
 
 Needs an instagram access token and the correlating user id to work
 
+Can be added by creating a .env file in the root directory with these Variables:
+REACT_APP_ACCESS_TOKEN,
+REACT_APP_USER_ID
+
 Uses 'react-responsive-carousel' (https://github.com/leandrowd/react-responsive-carousel) and  'react-instafeed' (https://github.com/JeromeFitz/react-instafeed#readme)
 
 
