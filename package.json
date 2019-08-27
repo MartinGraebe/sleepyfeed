@@ -10,7 +10,7 @@
     "react-dom": "^16.8.6",
     "react-instafeed": "^1.0.0",
     "react-responsive-carousel": "^3.1.49",
-    "react-scripts": "3.0.0",
+    "react-scripts": "3.0.1",
     "reactagram": "^1.1.1"
   },
   "scripts": {
