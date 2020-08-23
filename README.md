@@ -1,4 +1,5 @@
 
+// Defunct for now as Instagram changed their API 
 React App to display an Instagram feed as a slideshow e.g. to be captured by OBS and displayed on a stream
 
 Needs an instagram access token and the correlating user id to work
